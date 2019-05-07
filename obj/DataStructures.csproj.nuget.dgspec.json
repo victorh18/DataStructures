@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\DataStructures\\DataStructures.csproj": {}
+    "D:\\projects\\mta-software-fundamentals\\DataStructures\\DataStructures.csproj": {}
   },
   "projects": {
-    "D:\\projects\\DataStructures\\DataStructures.csproj": {
+    "D:\\projects\\mta-software-fundamentals\\DataStructures\\DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\DataStructures\\DataStructures.csproj",
+        "projectUniqueName": "D:\\projects\\mta-software-fundamentals\\DataStructures\\DataStructures.csproj",
         "projectName": "DataStructures",
-        "projectPath": "D:\\projects\\DataStructures\\DataStructures.csproj",
+        "projectPath": "D:\\projects\\mta-software-fundamentals\\DataStructures\\DataStructures.csproj",
         "packagesPath": "C:\\Users\\Asus User\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\DataStructures\\obj\\",
+        "outputPath": "D:\\projects\\mta-software-fundamentals\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

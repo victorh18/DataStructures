@@ -1,11 +1,12 @@
 ﻿using System;
+using DataStructures;
 
 namespace DataStructures
 {
     class Program
     {
         public static void Main(){
-            TestingStacks();
+            TestingLists();
         }
 
         public static void Testing(){
@@ -62,6 +63,24 @@ namespace DataStructures
             s.Push(8);
             Console.WriteLine(s.Pop());
             Console.WriteLine(s.Pop());
+        }
+    
+        public static void TestingLists(){
+            LinkedList<int> linkedList = new LinkedList<int>(1);
+            linkedList.AddLast(2);
+            linkedList.AddLast(3);
+            linkedList.AddLast(4);
+            linkedList.AddLast(5);
+            
+            PrintingLists(linkedList.head);
+            PrintingLists(linkedList.head);
+        }
+
+        public static void PrintingLists(Node<int> _n){
+            Console.WriteLine(_n.obj);
+            if(_n.NextNode != null){
+                PrintingLists(_n.NextNode);
+            }
         }
     }
 
