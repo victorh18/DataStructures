@@ -686,30 +686,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus User\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/vdelarosa/.nuget/packages/": {},
+    "/opt/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\projects\\mta-software-fundamentals\\DataStructures\\DataStructures.csproj",
+      "projectUniqueName": "/run/media/vdelarosa/PROGDRIVE/DataStructures/DataStructures.csproj",
       "projectName": "DataStructures",
-      "projectPath": "d:\\projects\\mta-software-fundamentals\\DataStructures\\DataStructures.csproj",
-      "packagesPath": "C:\\Users\\Asus User\\.nuget\\packages\\",
-      "outputPath": "d:\\projects\\mta-software-fundamentals\\DataStructures\\obj\\",
+      "projectPath": "/run/media/vdelarosa/PROGDRIVE/DataStructures/DataStructures.csproj",
+      "packagesPath": "/home/vdelarosa/.nuget/packages/",
+      "outputPath": "/run/media/vdelarosa/PROGDRIVE/DataStructures/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/opt/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Asus User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/vdelarosa/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
