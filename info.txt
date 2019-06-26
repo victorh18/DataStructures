@@ -1,0 +1,9 @@
+Este proyecto tiene instalado Coverlet, que es la herramienta que recoge la información de cobertura de código.
+Después de haber corrido "dotnet restore" y que se hayan instalado las referencias necesarias, se recoge la información de cobertura corriendo el siguiente comando en la carpeta del proyecto de las pruebas unitarias (Data.Test):
+"dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura".
+Ese comando recogerá la info de cobertura y la guardará en un archivo llamado "coverage.cobertura.xml"
+Usamos ese archivo para crear el reporte HTML con el comando:
+"dotnet reportgenerator "-reports:coverage.cobertura.xml" "-targetdir:TestReport" "
+Esto creará el reporte HTML en la carpeta TestReport de Data.Test, y se puede ver el reporte accediendo a "index.html"
+
+

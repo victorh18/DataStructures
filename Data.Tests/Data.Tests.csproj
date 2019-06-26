@@ -19,5 +19,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Data\Data.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="dotnet-reportgenerator-cli" Version="4.2.2" />
+  </ItemGroup>
 
 </Project>
