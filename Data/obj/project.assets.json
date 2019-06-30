@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DataStructures\\Data\\Data.csproj",
+      "projectUniqueName": "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "F:\\DataStructures\\Data\\Data.csproj",
+      "projectPath": "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Asus User\\.nuget\\packages\\",
-      "outputPath": "F:\\DataStructures\\Data\\obj\\",
+      "outputPath": "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

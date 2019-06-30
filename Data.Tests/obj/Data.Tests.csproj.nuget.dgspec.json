@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DataStructures\\Data.Tests\\Data.Tests.csproj": {}
+    "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data.Tests\\Data.Tests.csproj": {}
   },
   "projects": {
-    "F:\\DataStructures\\Data.Tests\\Data.Tests.csproj": {
+    "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data.Tests\\Data.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DataStructures\\Data.Tests\\Data.Tests.csproj",
+        "projectUniqueName": "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data.Tests\\Data.Tests.csproj",
         "projectName": "Data.Tests",
-        "projectPath": "F:\\DataStructures\\Data.Tests\\Data.Tests.csproj",
+        "projectPath": "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data.Tests\\Data.Tests.csproj",
         "packagesPath": "C:\\Users\\Asus User\\.nuget\\packages\\",
-        "outputPath": "F:\\DataStructures\\Data.Tests\\obj\\",
+        "outputPath": "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "F:\\DataStructures\\Data\\Data.csproj": {
-                "projectPath": "F:\\DataStructures\\Data\\Data.csproj"
+              "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data\\Data.csproj": {
+                "projectPath": "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data\\Data.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "F:\\DataStructures\\Data\\Data.csproj": {
+    "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DataStructures\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "F:\\DataStructures\\Data\\Data.csproj",
+        "projectPath": "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Asus User\\.nuget\\packages\\",
-        "outputPath": "F:\\DataStructures\\Data\\obj\\",
+        "outputPath": "D:\\projects\\mta-software-fundamentals\\DataStructures\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -16,3 +16,12 @@ F:\DataStructures\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
 F:\DataStructures\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
 F:\DataStructures\Data\obj\Debug\netstandard2.0\Data.dll
 F:\DataStructures\Data\obj\Debug\netstandard2.0\Data.pdb
+D:\projects\mta-software-fundamentals\DataStructures\Data\bin\Debug\netstandard2.0\Data.deps.json
+D:\projects\mta-software-fundamentals\DataStructures\Data\bin\Debug\netstandard2.0\Data.dll
+D:\projects\mta-software-fundamentals\DataStructures\Data\bin\Debug\netstandard2.0\Data.pdb
+D:\projects\mta-software-fundamentals\DataStructures\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+D:\projects\mta-software-fundamentals\DataStructures\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+D:\projects\mta-software-fundamentals\DataStructures\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+D:\projects\mta-software-fundamentals\DataStructures\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+D:\projects\mta-software-fundamentals\DataStructures\Data\obj\Debug\netstandard2.0\Data.dll
+D:\projects\mta-software-fundamentals\DataStructures\Data\obj\Debug\netstandard2.0\Data.pdb
